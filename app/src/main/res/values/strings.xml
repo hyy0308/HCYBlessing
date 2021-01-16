@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HCYBirthday</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="diaGreeting">which one do you like, apple or banana</string>
+    <string name="responseApple">apple</string>
+    <string name="responseBanana">banana</string>
+    <string name="responseAQuestion">how many apple do you have</string>
+    <string name="responseBQuestion">how many banana do you have</string>
+    <string name="AppleChoiceA">5 apples</string>
+    <string name="AppleChoiceB">6 apples</string>
+    <string name="BananaChoiceA">5 banana</string>
+    <string name="BananaChoiceB">6 banana</string>
+    <string name="fiveappleQuestion">you have 5 apples</string>
+    <string name="sixappleQuestion">you have 6 apples</string>
+    <string name="fivebananaQuestion">you have 5 banana</string>
+    <string name="sixbananaQuestion">you have 6 banana</string>
+</resources>
