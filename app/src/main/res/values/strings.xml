@@ -1,8 +1,35 @@
 <resources>
-    <string name="app_name">HCYBirthday</string>
+    <string name="app_name">生日快乐</string>
     <string name="action_settings">Settings</string>
 
-    <string name="diaGreeting">which one do you like, apple or banana</string>
+    <string name="diaGreeting">Hi~杨善惠，听说你是我的铁粉，谢谢你的支持和喜欢！</string>
+    <string name="greetingResponseA">不用客气</string>
+    <string name="greetingResponseB">是我的荣幸</string>
+    <string name="quesB">最近我有了一个新的想法，我想买一块地</string>
+    <string name="quesBresponseA">是一首新歌的名字吗？</string>
+    <string name="quesBresponseB">你想买哪里的？</string>
+    <string name="quesC">买你的死心塌地</string>
+    <string name="quesCResponseA">……</string>
+    <string name="quesCResponseB">现在火星上也流行土味情话嘛</string>
+    <string name="quesD">感动不？</string>
+    <string name="quesDResponseA">感动</string>
+    <string name="quesDResponseB">不敢动</string>
+    <string name="quesF">谢谢你这么捧场</string>
+    <string name="quesFResponseA">哈哈哈哈哈</string>
+    <string name="quesFResponseB">嘻嘻嘻嘻嘻</string>
+    <string name="quesG">这么不给面子呀, 不给你生日礼物了，哼(￢︿̫̿￢☆)</string>
+    <string name="quesGResponseA">别别别，要要要</string>
+    <string name="quesGResponseB">原来你给我准备了生日礼物啊</string>
+    <string name="quesE">火星也需要紧跟地球潮流嘛</string>
+    <string name="quesEResponseA">懂了懂了</string>
+    <string name="quesEResponseB">在地球这已经不算潮流了</string>
+    <string name="quesFinal">你的生日想要什么礼物？给我一个送你礼物的机会！</string>
+    <string name="quesFinalResA"> 1. 好想听你唱歌。</string>
+    <string name="quesFinalResB"> 2. 好想听你再讲一句情话。</string>
+
+    <string name="finalAAns">1. 送你一首生日快乐歌，愿你笑颜常开！</string>
+    <string name="finalBAns">2. 哈哈！生日当然要给你唱生日快乐歌啦！</string>
+
     <string name="responseApple">apple</string>
     <string name="responseBanana">banana</string>
     <string name="responseAQuestion">how many apple do you have</string>
